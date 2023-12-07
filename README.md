@@ -30,9 +30,13 @@ All spawners have been replaced with qSpawners! qSpawners no longer spawn any mo
 
 ---
 <h3>Why qSpawners?</h3>
+
 - <b>Lag-free</b>: No mobs are spawned and all loot/exp generation is handled async!
+
 - <b>Fully configurable</b>: Loot tables, Messages, GUI layout, Permissions
+
 - <b>Mineable Spawners</b>: Customize how spawners can be mined
+
 - <b>Permission based</b>: All features can be locked behind permissions
 
 ---
