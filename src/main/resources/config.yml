@@ -1,0 +1,10 @@
+disabled-worlds: []
+requires-permission: true
+requires-silktouch: true
+required-tools:
+  - NETHERITE_PICKAXE
+  - DIAMOND_PICKAXE
+  - GOLDEN_PICKAXE
+  - IRON_PICKAXE
+  - STONE_PICKAXE
+  - WOODEN_PICKAXE

@@ -1,15 +1,13 @@
-package gg.quartzdev.qspawners.spawner.listeners;
+package gg.quartzdev.qspawners.listeners;
 
-import gg.quartzdev.qspawners.qSpawners;
+import gg.quartzdev.qspawners.QSpawners;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerInteractEvent;
 
 public class SpawnerInteractListener implements Listener {
-    private final qSpawners plugin;
 
     public SpawnerInteractListener(){
-        this.plugin = qSpawners.getInstance();
     }
 
     @EventHandler

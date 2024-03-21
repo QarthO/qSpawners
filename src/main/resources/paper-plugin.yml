@@ -1,4 +1,4 @@
 name: qSpawners
 version: '${project.version}'
-main: gg.quartzdev.qspawners.qSpawners
+main: gg.quartzdev.qspawners.QSpawners
 api-version: '1.20'
